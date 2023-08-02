@@ -1,0 +1,8 @@
+Algaritimo para assar um pão:
+
+1° passo: Abrir o forno -
+ 2°forno aceso? - sim(ok) -(não) acender;
+3° colocar o pão para assar;
+4°Esperar o pão assar;
+Fim
+
